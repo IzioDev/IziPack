@@ -1,0 +1,7 @@
+/gamemode creative
+/start
+/stop
+/start
+/gamemode creative
+/time set night
+/give Pupute84 sophisticatedbackpacks:backpack

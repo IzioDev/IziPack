@@ -1,0 +1,27 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "prise_en_main"
+	group: ""
+	id: "5F3B89DB51987250"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "31024E3D4451481A"
+		rewards: [{
+			description: "testtest"
+			id: "4319FC6B8FD2E19A"
+			type: "toast"
+		}]
+		tasks: [{
+			id: "2ECA69E8096A6E47"
+			observe_type: 0
+			optional_task: true
+			timer: 0L
+			to_observe: "minecraft:air"
+			type: "observation"
+		}]
+		x: -2.0d
+		y: 0.5d
+	}]
+}
