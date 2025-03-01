@@ -5,3 +5,9 @@
 /gamemode creative
 /time set night
 /give Pupute84 sophisticatedbackpacks:backpack
+/give Pupute84 naturescompass:naturescompass
+/reload
+/gamemode creative
+/time set day
+/rtp
+/reload

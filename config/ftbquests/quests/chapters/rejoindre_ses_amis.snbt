@@ -1,0 +1,34 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "rejoindre_ses_amis"
+	group: ""
+	id: "7DC11BE9EBA09337"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		icon: {
+			id: "pocketchamber:stasis_chamber"
+		}
+		id: "5036198DC173326A"
+		rewards: [{
+			id: "69FC1D8AC3C76542"
+			type: "xp"
+			xp: 100
+		}]
+		tasks: [
+			{
+				id: "692087B311960C1D"
+				item: { count: 1, id: "pocketchamber:stasis_chamber" }
+				type: "item"
+			}
+			{
+				id: "130C3F3DF69A45F9"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}
+		]
+		x: -5.0d
+		y: -2.0d
+	}]
+}

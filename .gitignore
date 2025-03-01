@@ -16,3 +16,5 @@ patchouli_data.json
 usercache.json
 usernamecache.json
 realms_persistence.json
+user-prefs.json
+command_history.txt
