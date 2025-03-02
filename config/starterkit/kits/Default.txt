@@ -7,7 +7,7 @@
 1 : '{count:1,id:"minecraft:stone_pickaxe"}',
 2 : '{count:9,id:"minecraft:bread"}',
 3 : '{count:1,id:"sophisticatedbackpacks:backpack"}',
-4 : '{count:1,id:"ars_nouveau:worn_notebook"}',
+4 : '',
 5 : '{count:1,id:"immersiveengineering:manual"}',
 6 : '{count:1,id:"homebound:hearthwood"}',
 7 : '',

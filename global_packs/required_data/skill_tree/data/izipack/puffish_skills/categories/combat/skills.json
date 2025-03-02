@@ -1,0 +1,128 @@
+{
+	"b8csgezxqqsdzu4g": {
+		"definition": "health+0.5",
+		"x": 0,
+		"y": -32,
+		"root": true
+	},
+	"uy6i685oltzp6e23": {
+		"definition": "health+0.5",
+		"x": -32,
+		"y": -64,
+		"root": false
+	},
+	"god207u9jfdowdq0": {
+		"definition": "health+0.5",
+		"x": 32,
+		"y": -64,
+		"root": false
+	},
+	"jqtxtwwaveiholoy": {
+		"definition": "health+0.5",
+		"x": -96,
+		"y": -96,
+		"root": false
+	},
+	"fs9szbrdvmfeu458": {
+		"definition": "health+0.5",
+		"x": 96,
+		"y": -96,
+		"root": false
+	},
+	"o5tagvhr2ecf3rl2": {
+		"definition": "attack_speed+2%",
+		"x": -128,
+		"y": -128,
+		"root": false
+	},
+	"lif89l0zo33d5tx7": {
+		"definition": "attack_speed+2%",
+		"x": -128,
+		"y": -64,
+		"root": false
+	},
+	"2izwty577sr4e25b": {
+		"definition": "attack_speed+2%",
+		"x": 128,
+		"y": -128,
+		"root": false
+	},
+	"3m68bs6b6e2ypsjx": {
+		"definition": "attack_speed+2%",
+		"x": 128,
+		"y": -64,
+		"root": false
+	},
+	"6crevfdulufmmgrx": {
+		"definition": "attack_damage+1%",
+		"x": -160,
+		"y": -160,
+		"root": false
+	},
+	"hy43039qrbif4uou": {
+		"definition": "attack_damage+1%",
+		"x": 160,
+		"y": -160,
+		"root": false
+	},
+	"254ofgysyhptoza6": {
+		"definition": "attack_damage+1%",
+		"x": 160,
+		"y": -32,
+		"root": false
+	},
+	"ub8gatabs4xzrj1m": {
+		"definition": "attack_damage+1%",
+		"x": -160,
+		"y": -32,
+		"root": false
+	},
+	"d2ztrz2l6xdhs57x": {
+		"definition": "movement_speed+1%",
+		"x": 0,
+		"y": 32,
+		"root": false
+	},
+	"s3j9da7jp9zxnv26": {
+		"definition": "movement_speed+1%",
+		"x": -32,
+		"y": 64,
+		"root": false
+	},
+	"wpziciz97gh57i0c": {
+		"definition": "movement_speed+1%",
+		"x": 32,
+		"y": 64,
+		"root": false
+	},
+	"5mxfj5arx8x7pk2p": {
+		"definition": "movement_speed+1%",
+		"x": 0,
+		"y": 96,
+		"root": false
+	},
+	"xi2bk8itmnfwhrov": {
+		"definition": "luck+0.25",
+		"x": -64,
+		"y": 96,
+		"root": false
+	},
+	"i8gftt3mfzdj6dd5": {
+		"definition": "luck+0.25",
+		"x": 64,
+		"y": 96,
+		"root": false
+	},
+	"o3yw0o89pj4t9l1i": {
+		"definition": "luck+0.25",
+		"x": 32,
+		"y": 160,
+		"root": false
+	},
+	"4bnlgb88zboss0jf": {
+		"definition": "luck+0.25",
+		"x": -32,
+		"y": 160,
+		"root": false
+	}
+}

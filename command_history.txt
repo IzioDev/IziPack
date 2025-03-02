@@ -11,3 +11,6 @@
 /time set day
 /rtp
 /reload
+/gamemode survival
+/puffish_skills points add Pupute84 izipack:combat 1
+/puffish_skills points add Pupute84 izipack:combat 4
